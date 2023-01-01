@@ -26,7 +26,7 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-canary.18",
-    "@11ty/eleventy-plugin-webc": "^0.7.0",
+    "@11ty/eleventy-plugin-webc": "^0.8.1",
     "@11ty/is-land": "^3.0.0",
     "@hyrious/esbuild-plugin-http": "^0.1.1",
     "esbuild": "^0.15.18",
